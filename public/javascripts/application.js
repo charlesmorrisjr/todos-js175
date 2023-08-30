@@ -1,7 +1,5 @@
 "use strict";
 
-"use strict";
-
 document.addEventListener("DOMContentLoaded", function () {
   let forms = document.querySelectorAll("form.delete, form.complete_all");
   forms.forEach(form => {
